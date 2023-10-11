@@ -1,0 +1,46 @@
+﻿  main.cpp
+C:\cpp\doctor\main.cpp(24,14): warning C4305: инициализация: усечение из "double" в "float"
+C:\cpp\doctor\main.cpp(24,23): warning C4305: инициализация: усечение из "double" в "float"
+C:\cpp\doctor\main.cpp(45,31): warning C4305: инициализация: усечение из "double" в "float"
+C:\cpp\doctor\main.cpp(47,32): warning C4305: инициализация: усечение из "double" в "float"
+C:\cpp\doctor\main.cpp(157,37): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\cpp\doctor\main.cpp(157,30): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\cpp\doctor\main.cpp(161,44): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\cpp\doctor\main.cpp(161,37): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\cpp\doctor\main.cpp(167,18): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\cpp\doctor\main.cpp(168,41): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\cpp\doctor\main.cpp(168,32): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\cpp\doctor\main.cpp(169,24): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\cpp\doctor\main.cpp(169,17): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\cpp\doctor\main.cpp(248,11): warning C4305: =: усечение из "double" в "float"
+C:\cpp\doctor\main.cpp(249,11): warning C4305: =: усечение из "double" в "float"
+  Создание кода
+  Создание кода завершено
+  1 of 144 functions ( 0.7%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  doctor.vcxproj -> C:\cpp\doctor\Release\doctor.exe

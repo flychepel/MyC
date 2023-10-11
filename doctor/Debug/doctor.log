@@ -1,0 +1,41 @@
+﻿  main.cpp
+C:\cpp\doctor\main.cpp(21,14): warning C4305: инициализация: усечение из "double" в "float"
+C:\cpp\doctor\main.cpp(21,23): warning C4305: инициализация: усечение из "double" в "float"
+C:\cpp\doctor\main.cpp(42,31): warning C4305: инициализация: усечение из "double" в "float"
+C:\cpp\doctor\main.cpp(44,32): warning C4305: инициализация: усечение из "double" в "float"
+C:\cpp\doctor\main.cpp(148,37): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\cpp\doctor\main.cpp(148,30): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\cpp\doctor\main.cpp(152,44): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\cpp\doctor\main.cpp(152,37): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\cpp\doctor\main.cpp(158,18): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\cpp\doctor\main.cpp(159,41): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\cpp\doctor\main.cpp(159,32): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\cpp\doctor\main.cpp(160,24): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\cpp\doctor\main.cpp(160,17): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\cpp\doctor\main.cpp(231,11): warning C4305: =: усечение из "double" в "float"
+C:\cpp\doctor\main.cpp(232,11): warning C4305: =: усечение из "double" в "float"
+  doctor.vcxproj -> C:\cpp\doctor\Debug\doctor.exe
